@@ -26,6 +26,12 @@ pip install -r requirements.txt
 Run the app
 streamlit run app.py
 
+
+1. Clone the repo  
+```bash
+git clone https://github.com/Rohit04Rai/Music-Recommendation-System.git
+cd Music-Recommendation-System
+
 ## 👨‍💻 Author
 
 Rohit Kumar Rai  
