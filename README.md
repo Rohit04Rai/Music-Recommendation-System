@@ -9,13 +9,13 @@ A web app that recommends music tracks based on a selected song's mood, genre, a
 - Built using Streamlit
 
 ## 📊 Tech Stack
-Python
-Pandas
-Scikit-learn
-Streamlit
+- Python
+- Pandas
+- Scikit-learn
+- Streamlit
 
 ## 📂 Dataset
-Used: `spotify_data.csv`  
+Used: [spotify_data.csv](./spotify_data.csv)  
 Contains: track name, artist, genre, energy, valence, tempo, etc.
 
 ## 🛠️ How to Run
@@ -32,8 +32,10 @@ streamlit run app.py
 git clone https://github.com/Rohit04Rai/Music-Recommendation-System.git
 cd Music-Recommendation-System
 
-👨‍💻 Author
-Rohit Kumar Rai
-📧 Email: er.rohitrai87@gmail.com
-🔗 LinkedIn: linkedin.com/in/rohit-kumar-rai-04dec
+## 👨‍💻 Author
+
+Rohit Kumar Rai  
+📧 Email: [er.rohitrai87@gmail.com](mailto:er.rohitrai87@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/rohit-kumar-rai-04dec](https://www.linkedin.com/in/rohit-kumar-rai-04dec)  
 🎓 Education: B.Tech in Computer Science Engineering | MBA in Business Analytics
+
