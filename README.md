@@ -22,9 +22,16 @@ It recommends songs based on artist selection and provides a simple web app to s
 
 ---
 
-## 📂 Dataset
-Used: [spotify_data.csv](./spotify_data.csv)  
+## 📦 Dataset Download
+
+Due to GitHub’s file size limitations, the dataset has been hosted externally on Google Drive.
+
+👉 [Download IPL Dataset (ZIP, 77 MB)](https://drive.google.com/file/d/1nB6zHtfwKJdxkIPM9foXPCUErZfG5P0b/view?usp=drive_link)
+
+After downloading, unzip the file before running the analysis notebooks.
+ 
 Contains: track name, artist, genre, energy, valence, tempo, etc.
+
 
 ## 🚀 How to Install and Run the Project
 1. Clone the Repository
