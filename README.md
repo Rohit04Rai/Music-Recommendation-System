@@ -45,6 +45,13 @@ cd Music-Recommendation-System-Python
    streamlit run app.py
 
 ## 📸 Demo Screenshot
+![Screenshot_(1)](Project_Screenshot/Screenshot_(1).png)
+![Screenshot_(2)](Project_Screenshot/Screenshot_(2).png)
+![Screenshot_(3)](Project_Screenshot/Screenshot_(3).png)
+![Screenshot_(4)](Project_Screenshot/Screenshot_(4).png)
+![Screenshot_(5)](Project_Screenshot/Screenshot_(5).png)
+![Screenshot_(6)](Project_Screenshot/Screenshot_(6).png)
+![Screenshot_(7)](Project_Screenshot/Screenshot_(7).png)
 
 ## 📜 License
 This project is licensed under the MIT License.
